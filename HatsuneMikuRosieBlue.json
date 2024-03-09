@@ -15,9 +15,6 @@
       "BACKGROUND_ACCENT": [
       "#7A89BE"
       ],
-      "BACKGROUND_MENTIONED": [
-      "#6398FF40"
-      ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#1E1F26"
       ],
@@ -110,12 +107,6 @@
       ],
       "INTERACTIVE_NORMAL": [
       "#CECDD1"
-      ],
-      "MENTION_BACKGROUND": [
-      "#6398FF5e"
-      ],
-      "MENTION_FOREGROUND": [
-      "#DFDEFF"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#17161B"
@@ -310,7 +301,7 @@
     },
    "background": {
     "blur": 0.9,
-    "url": "https://files.catbox.moe/1b3a3w.jpeg",
+    "url": "https://i.imgur.com/fPDMYXd.jpeg",
     "alpha": 0.15
     }       
  }
