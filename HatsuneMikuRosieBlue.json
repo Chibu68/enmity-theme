@@ -154,7 +154,8 @@
       "#7C98F9"
       ],
       "TEXT_LINK": [
-      "#8FB0E8"
+       "#adcce0",
+      "#000000"
       ],
       "TEXT_MUTED": [
       "#98AFF9"
@@ -307,30 +308,10 @@
   "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
   "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
     },
-    "background": {
-        "blur": 0.9,
-        "url": "https://files.catbox.moe/1b3a3w.jpeg",
-	"alpa": 0.15
-    },
-   "plus":{
-       "version":"0",
-       "customOverlays": true,
-       "icons":{
-          "ic_radio_circle_checked": "#4A75E0",
-          "ic_radio_circle_checked__overlay": "#FFFFFF",
-          "ic_radio_square_24px": "#4A75E0",
-          "ic_radio_square_checked_24px": "#4A75E0",
-          "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-          "ic_selection_checked_24px": "#4A75E0",
-          "ic_selection_checked_24px__overlay": "#FFFFFF",
-          "img_account_sync_spotify_white": "#1ed760",
-          "StatusMobileOnline": "#3BA55C",
-          "StatusIdle": "#FAA61A",
-          "StatusDND": "#F04747",
-          "StatusOffline": "#747F8D",
-          "StatusOnline": "#3BA55C",
-          "StatusStreaming": "#593695"
+   "background": {
+    "blur": 0.9,
+    "url": "https://files.catbox.moe/1b3a3w.jpeg",
+    "alpha": 0.15
+    }       
  }
-},
-    "spec": 2
-}
+
