@@ -161,6 +161,9 @@
       ]
     },
     "rawColors": {
+      "PRIMARY_DARK_600": "#00ffff",
+      "PRIMARY_DARK_700": "#0000ff",
+      "PRIMARY_DARK_800": "#FFFF00",
       "BLUE_260": "#9EC1FF",
       "BLUE_300": "#97B9F4",
       "BLUE_330": "#93B4ED",
@@ -277,6 +280,9 @@
       "YELLOW_700": "#60779B",
       "WHITE_500": "#FFFFFF",
       "WHITE_630": "#676977"
+ },
+ "unsafe_colors": {
+     "CHAT_GREY": "#ff00ff"
  },
  "fonts":{
   "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
