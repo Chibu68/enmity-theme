@@ -1,6 +1,6 @@
 {
-    "name": "HatsuneMikuRosieBlue",
-    "description": ":3",
+    "name": "HatsuneMikuRosieBlue Test",
+    "description": ":3 Test",
     "version": "1.8",
     "authors": [
       {
@@ -10,155 +10,154 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#50575E11"
+      "#EFA94A"
       ],
       "BACKGROUND_ACCENT": [
-      "#7A89BE"
+      "#9D9101"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#1E1F26"
+      "#025669"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#22222E"
+      "#F39F18"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#22222E"
+      "#316650"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#363961"
+      "#AF2B1E"
       ],
       "BACKGROUND_MODIFIER_ACCENT_2": [
-      "#7573801e"
+      "#828282"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#5653617A"
+      "#57A639"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#8A8CBF4c"
+      "#DC9D00"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#4A4D63"
+      "#F8F32B"
       ],
       "BACKGROUND_PRIMARY": [
-      "#22222E"
+      "#1F3A3D"
       ],
       "BACKGROUND_SECONDARY": [
-      "#292936"
+      "#403A3A"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#343442"
+      "#00BB2D"
       ],
       "BACKGROUND_TERTIARY": [
-      "#343442"
+      "#3B3C36"
       ],
       "BG_BASE_PRIMARY": [
-      "#22222E"
+      "#A5A5A5"
       ],
       "BG_BACKDROP": [
-      "#000000b2"
+      "#E4A010"
       ],
       "BG_BASE_SECONDARY": [
-      "#22222E"
+      "#308446"
       ],
       "BG_BASE_TERTIARY": [
-      "#1D1D26"
+      "#6F4F28"
       ],
       "HOME_BACKGROUND": [
-      "#292936"
+      "#8673A1"
       ],
       "BORDER_FAINT": [
-      "#434A6B"
+      "#424632"
       ],
       "BORDER_STRONG": [
-      "#3F3D45"
+      "#686C5E"
       ],      
       "BORDER_SUBTLE": [
-      "#3F3D45"
+      "#343B29"
       ],
       "CARD_SECONDARY_BG": [
-      "#27262E"
+      "#E4A010"
       ],
       "CARD_PRIMARY_BG": [
-      "#292936"
+      "#B5B8B1"
       ],
       "CHANNEL_ICON": [
-      "#B7BFED"
+      "#1E213D"
       ],
       "CHANNELS_DEFAULT": [
-      "#9C9AA6"
+      "#1E2460"
       ],
       "EMBED_BACKGROUND": [
-      "#393B4D"
+      "#F6F6F6"
       ],
       "HEADER_PRIMARY": [
-      "#98AFF9"
+      "#9B111E"
       ],
       "HEADER_SECONDARY": [
-      "#9C9AA6"
+      "#922B3E"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#F7F7F7"
+      "#434750"
       ],
       "INTERACTIVE_HOVER": [
-      "#E6E6E6"
+      "#C93C20"
       ],
       "INTERACTIVE_MUTED": [
-      "#8A8CBF"
+      "#212121"
       ],
       "INTERACTIVE_NORMAL": [
-      "#CECDD1"
+      "#DC9D00"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#17161B"
+      "#B5B8B1"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#17161B"
+      "#FFFFFF"
       ], 
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#363757"
+      "#31372B"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#3D3E66"
+      "#4E3B31"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#9C9AA6"
+      "#4E3B31"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#F7F7F7"
+      "#282828"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#17161B"
+      "#39352A"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#4A4954"
+      "#6C6874"
       ],
       "STATUS_DANGER": [
-      "#4475F4"
+      "#79553D"
       ],
       "STATUS_DANGER_BACKGROUND": [
-      "#4475F4"
+      "#23282B"
       ],
       "STATUS_DANGER_TEXT": [
-      "#FFFFFF"
+      "#FAD201"
       ],
       "TEXT_DANGER": [
-      "#7C98F9"
+      "#4C2F27"
       ],
       "TEXT_LINK": [
-       "#adcce0",
-      "#000000"
+       "#8E402A"
       ],
       "TEXT_MUTED": [
-      "#98AFF9"
+      "#35682D"
       ],
       "TEXT_NORMAL": [
-      "#CECDD1"
+      "#955F20"
       ],
       "TEXT_PRIMARY": [
-      "#CECDD1"
+      "#497E76"
       ],
       "TEXT_SECONDARY": [
-      "#9C9AA6"
+      "#193737"
       ]
     },
     "rawColors": {
